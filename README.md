@@ -1,13 +1,12 @@
 # 💫 About Me:
 Hi, I’m Muqsit, a React Native developer specializing in cross-platform application development.
-
-> I build scalable SaaS applications with a strong focus on backend logic and system design.
-> My work involves creating reliable architectures that handle real-world use cases.
-> I regularly work with Firebase for authentication, databases, and real-time features.
-> I enjoy solving complex problems through clean and maintainable code.
-> I focus on performance, security, and long-term scalability in applications.
-> I believe in writing practical code that delivers real value to users.
-> Continuously learning and improving to stay aligned with modern development practices.
+I build scalable SaaS applications with a strong focus on backend logic and system design.
+My work involves creating reliable architectures that handle real-world use cases.
+I regularly work with Firebase for authentication, databases, and real-time features.
+I enjoy solving complex problems through clean and maintainable code.
+I focus on performance, security, and long-term scalability in applications.
+I believe in writing practical code that delivers real value to users.
+Continuously learning and improving to stay aligned with modern development practices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muqsitonbuffer_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muqsit-shafat-5ab4b7281) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hussainmuqsit65) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29083662) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@muqsitonbuffer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussainmuqsit65@gmail.com) 
