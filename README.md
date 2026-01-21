@@ -1,4 +1,4 @@
-<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/e83a8d77-f60b-449c-8514-455594b0fe52" /># 💫 About Me:
+# 💫 About Me:
 Hi, I’m Muqsit, a React Native developer specializing in cross-platform application development.
 
 > I build scalable SaaS applications with a strong focus on backend logic and system design.
