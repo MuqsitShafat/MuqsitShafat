@@ -52,20 +52,9 @@
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/muqsit-shafat-5ab4b7281)
 - **Portfolio:** [Muqsit's Portfolio](https://muqsitshafat.netlify.app)
-- **Instagram:** [muqsitonbuffer_](https://instagram.com/muqsitonbuffer_)
-- **Medium:** [hussainmuqsit65](https://medium.com/@hussainmuqsit65)
-- **Stack Overflow:** [29083662](https://stackoverflow.com/users/29083662)
-- **X (Twitter):** [muqsitonbuffer_](https://x.com/muqsitonbuffer_)
 - **Email:** `hussainmuqsit65@gmail.com` (Click to [send me an email](mailto:hussainmuqsit65@gmail.com))
+- **Other Socials:** [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muqsitonbuffer_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hussainmuqsit65) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29083662) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muqsitonbuffer_)
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MuqsitShafat&icon=0&color=0" alt="Visit Count" />
-</p>
